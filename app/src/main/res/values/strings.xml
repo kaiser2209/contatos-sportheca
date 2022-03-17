@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContatosSportheca</string>
+    <string name="iv_image_description">Imagem do Contato</string>
+
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+</resources>
